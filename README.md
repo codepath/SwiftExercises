@@ -12,3 +12,12 @@ The second sheet covers how to work with closures in Swift. You're provided exer
 ## Fundamentals 3
 
 The second sheet covers optionals and casting. You're provided exercises to help you understand how to work with them.
+
+
+### Q&A: 
+
+Question: How do I download these exercises?
+
+Answer: See gif below
+
+![How to download exercises](https://github.com/codepath/SwiftExercises/blob/main/Exercises.gif)
