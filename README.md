@@ -7,11 +7,11 @@ The first sheet covers the most basic of Swift tax. You'll learn to declare vari
 
 ## Fundamentals 2
 
-The second sheet covers how to work with closures in Swift. You're provided exercises to help you understand how to work with them.
+The second sheet covers optionals and casting. You're provided exercises to help you understand how to work with them.
 
 ## Fundamentals 3
 
-The second sheet covers optionals and casting. You're provided exercises to help you understand how to work with them.
+The second sheet covers how to work with closures in Swift. You're provided exercises to help you understand how to work with them.
 
 
 ### Q&A: 
